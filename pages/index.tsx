@@ -36,6 +36,8 @@ export default function Home() {
 
           <ComentaryCard />
 
+          <p className='text-sm px-8 lg:w-1/3'>Caso mesmo assim ainda tenha problemas preencha o formulário abaixo com suas informações para que possamos melhorar a sua experiência dentro do nosso sistema!</p>
+
           <div className="flex justify-center pb-20 lg:w-1/3">
             <GlobalButton label='Preencher Formulário' />
           </div>
