@@ -2,7 +2,7 @@
 
 Desenvolvido para auxiliar usuário do aplicativo Catedral Recon, um centro de notícias e eventos da Igreja Catedral da Reconciliação de Recife, aplicativo feito por mim tanto o Design de produto, ou seja, prototipagem quando o desenvolvimento. App disponível nas lojas Apple Store e Play Store.
 
-<a href="https://estefany-bio.netlify.app/" target='_blanc'>Clique aqui</a>
+<a href="https://recon-suport.vercel.app/" target='_blanc'>Clique aqui</a>
 <br/>
 <br/>
 ![image](https://github.com/im4nu/recon-suport/assets/102077709/954dc711-9337-447b-9567-4187a0dbd7d4)
