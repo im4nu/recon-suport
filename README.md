@@ -5,7 +5,7 @@ Desenvolvido para auxiliar usuário do aplicativo Catedral Recon, um centro de n
 <a href="https://estefany-bio.netlify.app/" target='_blanc'>Clique aqui</a>
 <br/>
 <br/>
-![image](https://github.com/im4nu/recon-suport/assets/102077709/adca4471-95c2-4bec-bbdd-f727a753a8f7)
+![image](https://github.com/im4nu/recon-suport/assets/102077709/954dc711-9337-447b-9567-4187a0dbd7d4)
 <br/>
 <br/>
 ## Getting Started
