@@ -1,5 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Confira o projeto rodando na web # <br/>
 
+Desenvolvido para auxiliar usuário do aplicativo Catedral Recon, um centro de notícias e eventos da Igreja Catedral da Reconciliação de Recife, aplicativo feito por mim tanto o Design de produto, ou seja, prototipagem quando o desenvolvimento. App disponível nas lojas Apple Store e Play Store.
+
+<a href="https://estefany-bio.netlify.app/" target='_blanc'>Clique aqui</a>
+<br/>
+<br/>
+![image](https://github.com/im4nu/recon-suport/assets/102077709/adca4471-95c2-4bec-bbdd-f727a753a8f7)
+<br/>
+<br/>
 ## Getting Started
 
 First, run the development server:
